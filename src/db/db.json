@@ -1,0 +1,82 @@
+{
+  "thong-ke-ao-nuoi-vu-nuoi-dashboard": {
+    "payload": {
+      "tongVungNuoi": "5",
+      "tongAoNuoi": "120",
+      "tyLeHaoHutTrungBinh": 12.35,
+      "danhSachTyLeHaoHutTheoVung": [
+        {
+          "vungnuoiId": 1,
+          "vungnuoiTen": "Vùng A",
+          "dienTichMatNuoc": 150,
+          "soluongAo": 25,
+          "tyLeHaoHutTrungBinhTheoVung": 10.25
+        },
+        {
+          "vungnuoiId": 2,
+          "vungnuoiTen": "Vùng B",
+          "dienTichMatNuoc": 200,
+          "soluongAo": 30,
+          "tyLeHaoHutTrungBinhTheoVung": 15.45
+        },
+        {
+          "vungnuoiId": 3,
+          "vungnuoiTen": "Vùng C",
+          "dienTichMatNuoc": 180,
+          "soluongAo": 22,
+          "tyLeHaoHutTrungBinhTheoVung": 12.7
+        }
+      ]
+    }
+  },
+
+  "thong-ke-san-luong-thu-hoach-dashboard": {
+    "payload": [
+      {
+        "aonuoiMa": "AO-001",
+        "anvnSoluongThuhoach": "1200",
+        "vungnuoiTen": "Vùng A"
+      },
+      {
+        "aonuoiMa": "AO-002",
+        "anvnSoluongThuhoach": "950",
+        "vungnuoiTen": "Vùng A"
+      },
+      {
+        "aonuoiMa": "AO-003",
+        "anvnSoluongThuhoach": "1340",
+        "vungnuoiTen": "Vùng B"
+      },
+      {
+        "aonuoiMa": "AO-004",
+        "anvnSoluongThuhoach": "1100",
+        "vungnuoiTen": "Vùng C"
+      }
+    ]
+  },
+
+  "thong-ke-san-luong-thuc-an-dashboard": {
+    "payload": [
+      {
+        "aonuoiMa": "AO-001",
+        "anvnSoluongThucan": "500",
+        "vungnuoiTen": "Vùng A"
+      },
+      {
+        "aonuoiMa": "AO-002",
+        "anvnSoluongThucan": "650",
+        "vungnuoiTen": "Vùng A"
+      },
+      {
+        "aonuoiMa": "AO-003",
+        "anvnSoluongThucan": "720",
+        "vungnuoiTen": "Vùng B"
+      },
+      {
+        "aonuoiMa": "AO-004",
+        "anvnSoluongThucan": "810",
+        "vungnuoiTen": "Vùng C"
+      }
+    ]
+  }
+}
